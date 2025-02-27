@@ -1,0 +1,2 @@
+# PlantDiseasedetection
+AICTE Internship 
